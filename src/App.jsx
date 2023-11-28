@@ -30,12 +30,14 @@ function App() {
   }
 
   return (
+    <>
     <Editor
-      height="100vh"
+      height="10vh"
       width="100vw"
       theme="vs-dark"
       onMount={handleEditorDidMount}
     />
+    </>
   )
 }
 

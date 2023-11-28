@@ -1,0 +1,15 @@
+#video-streams{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.video-container{
+    height: 100%;
+    border:  2px solid black;
+}
+
+.video-player{
+    height: 100%;
+    width: 100%;
+}
